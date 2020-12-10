@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2020-12-10T15:49:22</DateModified>
+  <DateModified>2020-12-10T16:14:47</DateModified>
   <ModuleName>pong</ModuleName>
   <SummaryTimeStamp>Unknown</SummaryTimeStamp>
-  <SavedFilePath>D:/CE/2-1/01076006 Digital System Fundamentals/Lab/LabTest2/iseconfig/pong.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>D:/CE/2-1/01076006 Digital System Fundamentals/Lab/LabTest2\</ImplementationReportsDirectory>
-  <DateInitialized>2020-12-09T20:56:56</DateInitialized>
+  <SavedFilePath>D:/CE/2-1/01076006 Digital System Fundamentals/Assignment/PONG/iseconfig/pong.xreport</SavedFilePath>
+  <ImplementationReportsDirectory>D:/CE/2-1/01076006 Digital System Fundamentals/Assignment/PONG</ImplementationReportsDirectory>
+  <DateInitialized>2020-12-10T16:14:47</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>
  <body>

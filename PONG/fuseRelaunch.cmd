@@ -1,1 +1,0 @@
--intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "D:/CE/2-1/01076006 Digital System Fundamentals/Lab/LabTest2/pong_isim_beh.exe" -prj "D:/CE/2-1/01076006 Digital System Fundamentals/Lab/LabTest2/pong_beh.prj" "work.pong" "work.glbl" 
